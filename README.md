@@ -1,1 +1,1 @@
-# OpenCV_Webcam_Saving
+# OpenCV_Webcam_Reading
